@@ -1,0 +1,13 @@
+@startmindmap (struktur data)
+* struktur data
+** liner
+*** static
+**** arry
+*** dynamic
+**** stack
+**** linkedlist
+** non-liner
+*** tree
+*** graph
+
+@endmindmap
